@@ -1,0 +1,17 @@
+body {
+    background-image: url('https://png.pngtree.com/background/20240413/original/pngtree-blue-background-images-free-download-hd-wallpapers-vector-picture-image_8473250.jpg');
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    margin: 0;
+
+    filter: contrast(1.2) brightness(1.1); 
+}
+
+
+
+
+a {
+    background-image: linear-gradient(to right, #eca7ff, #eca7ff, #6afaff, #6afaff);
+}
